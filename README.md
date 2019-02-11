@@ -1,5 +1,5 @@
 # SCAVENGE Data Challenge
-SCAVENGE Data Challenge (http://www.scavenge.eu/dissemination/data-challenge/)
+This repository is for the SCAVENGE Data Challenge (http://www.scavenge.eu/dissemination/data-challenge/). SCAVENGE is a ETN funded by the European Commission in the framework of H2020  under the Marie Skłodowska-Curie grant agreement No 675891.
 
 We provide a dataset containing traces from the 4G control channel of 3 different cells. Data includes one week of observations of the mobile users both uplink (UL) and downlink (DL). Specifically, the dataset consists of 4 columns containing: Timestamp, Temporal User Identifier, Transmission direction (UL/DL) and Modulation and Coding Scheme (MCS) Index (from 1 to 29).
 
