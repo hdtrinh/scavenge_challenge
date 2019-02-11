@@ -31,7 +31,7 @@ Data can be missing or it can contain mistakes due to measurements failures.
 
 •	Each line corresponds to 1 millisecond (the duration of one LTE radio frame is 10 ms. One frame is divided into 10 subframes of 1 ms each)
 
-	Each file has the following 6 columns:
+Each file has the following 6 columns:
 
 • ['dates','subframe_n','subframe_ind','rnti','direction','mcs']
 
